@@ -270,7 +270,7 @@ xdotool mousemove 500 875;
 xdotool click --delay 100 1;
 
 sleep 5;
-h
+
 done
 
 

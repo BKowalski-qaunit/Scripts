@@ -30,7 +30,7 @@ xdotool click --repeat 3 --delay 1000 3;
 
 
 # CAPTURE
-xdotool mousemove 909 475;
+xdotool mousemove 909 470;
 xdotool click --repeat 240 --delay 100 3;
 
 
